@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/PlantUML/classes_gen/
+/languages/PlantUML/generator/classes_gen/
